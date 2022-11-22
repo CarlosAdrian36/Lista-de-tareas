@@ -1,6 +1,6 @@
 import './styles.css';
 
-import {} from './class'
+import {Todo,TodoList} from './class'
 
 
 
