@@ -1,7 +1,10 @@
 import './styles.css';
-import { Todo } from './class/todo.class';
+
+import {} from './class'
 
 
+
+const todoList = new TodoList();
 
 const tarea = new Todo('Aprender js');
 
