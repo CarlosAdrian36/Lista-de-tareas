@@ -5,6 +5,7 @@ import { Todo } from "../class/todo.class";
 const divTodoList = document.querySelector('.todo-list')
 
 
+
 export const crearTodoHtml = ( todo ) => {
     
     const htmlTodo = 
@@ -24,7 +25,5 @@ export const crearTodoHtml = ( todo ) => {
     divTodoList.append( div.firstElementChild );
 
     return div.firstElementChild;
-
-
 
 }
