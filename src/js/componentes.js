@@ -60,6 +60,6 @@ divTodoList.addEventListener( 'click', ( event ) => {
         divTodoList.removeChild( todoElemento);
 
     }
-    console.log(todoList)
+    //console.log(todoList)
 
 })
